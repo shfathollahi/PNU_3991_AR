@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ---------
-### سیدعلی محترمی
+### شهلا فتح الهی
  
 ---
 - [حساب گیت هاب](https://github.com/SAMashiyane)
@@ -15,10 +15,11 @@
 
 ## دروس ارشد
 
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/SAMashiyane/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
+[نظريه زبانهاوماشين ها ( 01-1115157](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 <br>
-[1115029_02	سمينار	2](https://github.com/SAMashiyane/PNU_3991_AR/tree/main/MscSeminar-1)
-
+[1115029_02	سمينار	](https://github.com/shfathollahi/PNU_3991_AR/tree/main/MscSeminar-1)
+<br>
+[1115257_03	سمينار	](https://github.com/shfathollahi/PNU_3991/tree/main/MSc/MscSeminar-2)
 --------------
 ## روز و ساعت ارائه دروس
 
@@ -33,7 +34,7 @@
   </tr>
   <tr>
     <th ></th>
-    <th ></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"> نظريه زبانهاوماشين ها</a></th>
     <th ></th>
     <th></th>
     <th></th>
@@ -75,7 +76,7 @@
     <th ></th>
      <th ></th>
      <th ></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
+     <th></th>
      <th ></th>
     <th>پنج شنبه</th>
   </tr>
