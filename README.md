@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/shfathollahi)
 
-- [رزومه](https://github.com/shfathollahi/)
+- [رزومه](https://shfathollahi.github.io)
 
 - [SOP](https://shfathollahi.github.io/sop/)
 
