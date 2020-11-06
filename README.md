@@ -3,11 +3,11 @@
 ### شهلا فتح الهی
  
 ---
-- [حساب گیت هاب](https://github.com/SAMashiyane)
+- [حساب گیت هاب](https://github.com/shfathollahi)
 
-- [رزومه](https://samashiyane.github.io/)
+- [رزومه](https://github.com/shfathollahi/)
 
-- [SOP](https://samashiyane.github.io/SOP/)
+- [SOP](https://shfathollahi.github.io/sop/)
 
 
 ------------------
@@ -15,7 +15,7 @@
 
 ## دروس ارشد
 
-[نظريه زبانهاوماشين ها ( 01-1115157](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
+[نظريه زبانهاوماشين ها ( 01-1115157](https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 <br>
 [1115029_02	سمينار	](https://github.com/shfathollahi/PNU_3991_AR/tree/main/MscSeminar-1)
 <br>
