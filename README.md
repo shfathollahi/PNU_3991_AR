@@ -15,16 +15,12 @@
 ## گروه ها
 
 1. G-S01
-     1. [_SDM-43_شهلا فتح الهي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/43_شهلا%20فتح%20الهي)    
+     1. [_tol-43_شهلا فتح الهي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/43_شهلا%20فتح%20الهي)    
 
-2. G-A01
-     1. [_ASE-_01_زهرا ابراهيمي كندجي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/01_زهرا%20ابراهيمي%20كندجي)
- 
- 
- 3. G-S01
-     1. [_SDM-_24_معصومه طاهري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/24_معصومه%20طاهري)
+   
+     2. [_SDM-_24_معصومه طاهري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/24_معصومه%20طاهري)
     
-
+      3. [_ASE-_01_زهرا ابراهيمي كندجي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/01_زهرا%20ابراهيمي%20كندجي)
     
    
 
