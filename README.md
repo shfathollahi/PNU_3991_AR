@@ -19,7 +19,7 @@
 <br>
 [1115029_02	سمينار	](https://github.com/shfathollahi/PNU_3991_AR/tree/main/MscSeminar-1)
 <br>
-[1115257_03	سمينار	](https://github.com/shfathollahi/PNU_3991/tree/main/MSc/MscSeminar-2)
+[1115257_03	(سمينار ( تحقيق و تتبع نظري 	](https://github.com/shfathollahi/PNU_3991_AR/tree/main/MscSeminar-2)
 --------------
 ## روز و ساعت ارائه دروس
 
