@@ -35,7 +35,12 @@
     1. [_LMT02-11_زهرا بشیری خاوری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/11_زهرا%20بشيري%20خاوري)
     1. [LMT02-43_شهلا فتح الهی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/43_شهلا%20فتح%20الهي) 
     1. [_LMT02-56_ریحانه محرابی مقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/56_ريحانه%20محرابي%20مقدم)
-
+    1. [_LMT03-09_فایزه سیدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/09_فائزه%20صيدي)
+    1. [_LMT01-01_زهرا احمدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/01_زهرا%20احمدي)
+    
+    
+    
+    
 ------------------
 ## Winter Semester Courses 1399/2020
 
