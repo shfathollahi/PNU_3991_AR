@@ -34,19 +34,7 @@
     1. [_LMT02-23_سید جلال حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/23_سيدجلال%20حسيني)
     1. [_LMT02-11_زهرا بشیری خاوری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/11_زهرا%20بشيري%20خاوري)
     1. [LMT02-43_شهلا فتح الهی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/43_شهلا%20فتح%20الهي) 
-   3. G-TOLAM 
-    1.
-    1.
-    1.
-   
-     
-     
-      
-    1.       
-    1.
-    1. 
-    1.
-    1. 
+    1. [_LMT02-56_ریحانه محرابی مقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/56_ريحانه%20محرابي%20مقدم)
 
 ------------------
 ## Winter Semester Courses 1399/2020
