@@ -46,7 +46,7 @@
     1. [LMT02-41_حانیه علی نژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/67_فاطمه%20مهديخانلو)
     1. [_LMT02-08_مهدی الهمرادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/08_مهدي%20الهمرادي)
     1. [_LMT01-04_جیلا ایوبی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
-    1. [_LMT02-36_محسن شکیبا]https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/36_محسن%20شكيبا)
+    1. [_LMT02-36_محسن شکیبا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/36_محسن%20شكيبا)
     1. [_LMT01-15_صبر گل رحیمی ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
     1. [_LMT02-05_شکریه افتخاری ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
     1. [LMT02-33_امیر ضمیری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
