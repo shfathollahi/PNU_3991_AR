@@ -41,7 +41,7 @@
     1. [LMT01-025_محمد امین رئیسی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/25_محمدامين%20رئيسي)
     1. [LMT01-36_مهرداد صفی خانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/36_مهرداد%20صفي%20خاني)
     1. [LMT01-41_عرفان عطا منصوری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/41_عرفان%20عطامنصوري)
-    1. [LMT02-31_مهسا زهدی شایسته]https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/31_مهسا%20زهدي%20شايسته)
+    1. [LMT02-31_مهسا زهدی شایسته](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and- Machines/_1115157_02/31_مهسا%20زهدي%20شايسته)
     1. [LMT02-67_فاطمه مهدی خانلو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/67_فاطمه%20مهديخانلو)
     1. [LMT02-41_حانیه علی نژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/67_فاطمه%20مهديخانلو)
 ------------------
