@@ -23,9 +23,9 @@
     5. ایجاد ریپازیتوری PNU_3991_AR
     6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
     7. مشارکت در گروهای درسی
-2. ارائه شفاهی یک فصل از کتاب مرجع اصلی درس 
-3.ارائه نوشتاری درس از منابع دیگر با لاتک
-4.ارائه شفاهی دو مساله از منابع دیگر با لاتک
+1.  ارائه شفاهی یک فصل از کتاب مرجع اصلی درس 
+1. ارائه نوشتاری درس از منابع دیگر با لاتک
+1. ارائه شفاهی دو مساله از منابع دیگر با لاتک
 ------------------
 
 ## گروه 
@@ -60,17 +60,8 @@
     1. [_LMT01-17_محمدرضا حامدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/17_محمدرضا%20حامدي)
     1. [_LMT02-20_فاطمه دوستانی ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 ------------------
-## Winter Semester Courses 1399/2020
 
-## دروس ارشد
-
-[نظريه زبانهاوماشين ها ( 01-1115157](https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
-<br>
-[1115029_02	سمينار	](https://github.com/shfathollahi/PNU_3991_AR/tree/main/MscSeminar-1)
-<br>
- [1115257_03	(سمينار ( تحقيق و تتبع نظري 	](https://github.com/shfathollahi/PNU_3991_AR/tree/main/MscSeminar-2)
---------------
-## روز و ساعت ارائه دروس
+## روز و ساعت ارائه درس
 
 <table style="width:100%">
   <tr>
