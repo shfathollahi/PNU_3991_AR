@@ -26,9 +26,9 @@
     1. [_MSC-11_معصومه طاهری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar/1115257_03/11_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%B7%D8%A7%D9%87%D8%B1%D9%8A) 
     
    3. G-TOLAM 
-   1. [_TLM01-12_محمدرضا بصيري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/12_محمدرضا%20بصيري)
-   1. [_TLM01-03_احمد ارمغان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/03_احمد%20ارمغان)
-   1. [LMT02-51_امیر محمد کوسه لر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/51_اميرمحمد%20كوسه%20لر)
+    1. [_TLM01-12_محمدرضا بصيري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/12_محمدرضا%20بصيري)
+    1. [_TLM01-03_احمد ارمغان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/03_احمد%20ارمغان)
+    1. [LMT02-51_امیر محمد کوسه لر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/51_اميرمحمد%20كوسه%20لر)
    
      
      
