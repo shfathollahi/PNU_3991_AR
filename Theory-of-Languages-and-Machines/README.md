@@ -17,7 +17,7 @@
 1. **فعالیت های مشترک همه دانشجویان**
     1. [ساخت اکانت گیت هاب](https://github.com/shfathollahi) 
     2. [آموزش گیت در سایت پچ ورک](https://github.com/shfathollahi/PNU_3991_AR/blob/main/jlord.png)
-    3. [ارائه رزومه](https://github.com/shfathollahi/PNU_3991_AR)
+    3. [ارائه رزومه](https://shfathollahi.github.io)
     4. [ارائه انگیزه نامه](https://shfathollahi.github.io/sop/)
     5. [ایجاد ریپازیتوری PNU_3991_AR](https://github.com/shfathollahi/PNU_3991_AR)
     6. [گذراندن دوره js از سایت سولولرن](https://github.com/shfathollahi/PNU_3991_AR/blob/main/CertJS.png)
