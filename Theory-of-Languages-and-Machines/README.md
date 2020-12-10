@@ -16,15 +16,15 @@
 
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
-    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-    3. ارائه رزومه
-    4. ارائه انگیزه نامه
-    5. ایجاد ریپازیتوری PNU_3991_AR
-    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+    2. [آموزش گیت در سایت پچ ورک]https://github.com/shfathollahi/PNU_3991_AR/blob/main/jlord.png
+    3. (https://github.com/shfathollahi/PNU_3991_AR)ارائه رزومه
+    4. (https://shfathollahi.github.io/sop/)ارائه انگیزه نامه
+    5. ایجاد ریپازیتوری PNU_3991_ARhttps://github.com/shfathollahi/PNU_3991_AR
+    6. [گذراندن دوره js از سایت سولولرن]https://github.com/shfathollahi/PNU_3991_AR/blob/main/CertJS.png
     7. مشارکت در گروهای درسی
 1. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**
-1. **ارائه نوشتاری درس از منابع دیگر با لاتک**
-1. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**
+1. **ارائه نوشتاری درس از منابع دیگر با لاتک**https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines
+1. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines
 
 ------------------
 
