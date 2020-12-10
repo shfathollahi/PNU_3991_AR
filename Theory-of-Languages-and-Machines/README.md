@@ -15,7 +15,7 @@
 ## سیاهه ارزشیابی درس
 
 1. **فعالیت های مشترک همه دانشجویان**
-    1. [ساخت اکانت گیت هاب]https://github.com/shfathollahi 
+    1. [ساخت اکانت گیت هاب](https://github.com/shfathollahi) 
     2. [آموزش گیت در سایت پچ ورک](https://github.com/shfathollahi/PNU_3991_AR/blob/main/jlord.png)
     3. [ارائه رزومه](https://github.com/shfathollahi/PNU_3991_AR)
     4. [ارائه انگیزه نامه](https://shfathollahi.github.io/sop/)
