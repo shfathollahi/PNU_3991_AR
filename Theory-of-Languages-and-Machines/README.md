@@ -23,8 +23,8 @@
     6. [گذراندن دوره js از سایت سولولرن](https://github.com/shfathollahi/PNU_3991_AR/blob/main/CertJS.png)
     7. مشارکت در گروهای درسی
 1. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**
-1.[ **ارائه نوشتاری درس از منابع دیگر با لاتک**](https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
-1.[**ارائه شفاهی دو مساله از منابع دیگر با لاتک**] (https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+1. [ **ارائه نوشتاری درس از منابع دیگر با لاتک**](https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+1. [ **ارائه شفاهی دو مساله از منابع دیگر با لاتک**](https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 
 ------------------
 
