@@ -31,7 +31,7 @@
     ##### [**Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)](http://library.lol/main/BA5FF8420F90F861837783127F524EC8)
     
 4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک**
-    - [**Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)](http://library.lol/main/BA5FF8420F90F861837783127F524EC8)
+     [**Shyamalendu Kandar - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)](http://library.lol/main/BA5FF8420F90F861837783127F524EC8)
 
 
 ------------------
