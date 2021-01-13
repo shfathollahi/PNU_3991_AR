@@ -26,8 +26,6 @@
 
 ## دروس ارشد
 
-[نظريه زبانهاوماشين ها ( 01-1115157](https://github.com/shfathollahi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
-<br>
 [1115029_02	سمينار	](https://github.com/shfathollahi/PNU_3991_AR/tree/main/MscSeminar-1)
 <br>
  [1115257_03	(سمينار ( تحقيق و تتبع نظري 	](https://github.com/shfathollahi/PNU_3991_AR/tree/main/MscSeminar-2)
